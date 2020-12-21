@@ -1,0 +1,16 @@
+# some information about you
+name: "Shotaro Kataoka"
+nickname: "Shotaro"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "s183347@stn.nagaokaut.ac.jp"
+
+# some summary about what you do
+summary:
+  - I'm a student of doctoral course
+  - I'm researching Deep Learning
+  - I love VIM, Windows and AutoHotKey
+  - I work on open-source projects
