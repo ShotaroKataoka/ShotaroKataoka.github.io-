@@ -11,32 +11,77 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: National Institute of Technology, Kochi College
+    url: "https://www.kochi-ct.ac.jp/"
+    location: Kochi, Japan
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    # overview: NIT, Kochi (高知高専) is a
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Department of Electrical Engineering and Information Science
+    start: Apr 2013
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Mar 2018
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Student of Associate degree
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Nagaoka University of Technology
+    url: "https://imse.nagaokaut.ac.jp/"
+    location: Nigata, Japan
+    # overview:
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Information & Management systems engineering
+    start: Apr 2018
+    end: Mar 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Student of Undergraduate course
+
+- company:
+    name: Mitou Foundation
+    url: "https://www.mitou.org/"
+    location: Tokyo, Japan
+    # overview:
+  positions:
+  - designation: Project Researcher
+    start: Mar 2019
+    end: Dec 2019
+    responsibilities:
+    - AI Frontier Program
+    - Research & Development of ML systems
+
+- company:
+    name: Sony Computer Science Laboratories, Inc.
+    url: "https://www.sonycsl.co.jp/"
+    location: Tokyo, Japan
+    # overview:
+  positions:
+  - designation: Intern
+    start: Oct 2019
+    end: Feb 2020
+    responsibilities:
+    - Research & Development of ML systems
+
+- company:
+    name: Nagaoka University of Technology
+    url: "http://sti.nagaokaut.ac.jp/"
+    location: Nigata, Japan
+    # overview:
+  positions:
+  - designation: Department of Science of Technology Innovation
+    start: Apr 2020
+    # end: Mar 2020
+    responsibilities:
+    - Student of Doctoral course
+
+- company:
+    name: Aidemy
+    url: "https://aidemy.net/"
+    location: Tokyo, Japan
+    # overview:
+  positions:
+  - designation: Intern
+    start: Nov 2020
+    # end: Feb 2020
+    responsibilities:
+    - Customer support (Data science contents)

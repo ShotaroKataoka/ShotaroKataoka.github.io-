@@ -10,15 +10,15 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+- title: AI frontier path finder (kyodo)
+  image: /images/sections/achievements/ai_frontier.jpg
+  summary: 経産省から「AIフロンティアパスファインダー（共働）」に認定されました．[AIフロンティアプログラム](https://www.mitou.org/projects/ai_frontier/index_1nd.html), [未踏名鑑](https://scrapbox.io/mitou-meikan/%E7%89%87%E5%B2%A1_%E7%BF%94%E5%A4%AA%E9%83%8E)
+- title: President's Award (Academic excellence)
+  image: /images/sections/achievements/president_award_academic.jpg
+  summary: President's Award for students of great academic performance (2019).
+- title: President's Award (Great activities)
+  image: /images/sections/achievements/president_award_activities.jpg
+  summary: President's Award for students of doing great extracurricular activities (2020). [link](https://www.nagaokaut.ac.jp/shincyaku/201904/190401.html)
+- title: Grand Prix winner of Buisiness idea contest.
+  image: /images/sections/achievements/2018contest_grandprix.jpg
+  summary: 「えちご創発×TECH」 [ICTビジネスアイデアコンテスト2018 in 長岡](http://www.ict-echigo.jp/news/public/detail/ID/96/td/)でグランプリ受賞

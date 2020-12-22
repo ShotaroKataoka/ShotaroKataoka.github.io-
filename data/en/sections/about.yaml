@@ -8,24 +8,36 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Doctoral student
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Nagaoka University of Technology
+  url: "https://www.nagaokaut.ac.jp/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "I love VIM. I'm interested in Machine Learning (Deep Learning and Classical Machine Learning,) Statistics and Bayes. My hobby is OSS development."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/ShotaroKataoka"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/KataokaShotaro"
+- name: facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/profile.php?id=100014221270440"
+- name: instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/s.kataoka_/"
+- name: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/shotarokataoka/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
@@ -37,3 +49,15 @@ softSkills:
 - name: Team Work
   percentage: 90
   color: yellow
+- name: Communication
+  percentage: 95
+  color: pink
+- name: Hard Working
+  percentage: 80
+  color: green
+- name: Fast Learner
+  percentage: 90
+  color: sky
+- name: Problem Solving
+  percentage: 95
+  color: orange
