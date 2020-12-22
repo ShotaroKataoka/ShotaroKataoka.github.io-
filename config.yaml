@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
-title: "Kataoka's blog"
+title: "Kataoka's resume"
 theme: "toha"
 
 # Manage languages
@@ -36,3 +36,5 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: true
+
+  background: "images/background.jpg"
