@@ -11,16 +11,32 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Python
+  icon: "/images/sections/skills/python.png"
+  summary: "My main programing language. For reseaching ML/DL, developing OSS, and so on. (5 years experience)"
+  url: "#skills"
 
-- name: Go Development
-  icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: PyTorch
+  icon: "/images/sections/skills/pytorch.png"
+  summary: "Deeplearning framework. Can Implement paper models and new deeplearning architechture. (3 years experience)"
+  url: "#skills"
 
-- name: Cloud Computing
-  icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: C / C++
+  icon: "/images/sections/skills/cpp.svg"
+  summary: "Can use C/C++. I have been creating electronic work with C lang. (3 years experience)"
+  url: "#skills"
+
+- name: Java
+  icon: "/images/sections/skills/java.png"
+  summary: "Can use Java language, but not very good. I made some (TOY-LEVEL) Android APPS using it."
+  url: "#skills"
+
+- name: Linux / Shell sctipt
+  icon: "/images/sections/skills/linux.png"
+  summary: "Developing OSS with bash/zsh."
+  url: "#skills"
+
+- name: CI tool (Github Actions)
+  icon: "/images/sections/skills/github_actions.png"
+  summary: "Managing research and OSS project with Github Actions."
+  url: "#skills"

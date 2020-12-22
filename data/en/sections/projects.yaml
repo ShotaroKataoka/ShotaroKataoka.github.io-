@@ -12,37 +12,46 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
+- name: python
+  filter: "python"
+- name: shell
+  filter: "shell"
+- name: hobby
   filter: "hobby"
 
 # your projects
 projects:
 - name: ls-Improved
   logo: /images/sections/projects/lsi.png
-  role: Maintainer
-  timeline: "March 2020 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
-
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
-
-- name: Toha
-  logo: /images/sections/projects/toha.png
   role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  timeline: "Jun 2020 - Present"
+  repo: https://github.com/ShotaroKataoka/ls-Improved # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: 📝Descriptive ls-like-command working on Python.
+  tags: ["hobby", "ls-Improved", "python", "OSS"]
+
+- name: Fuzzy-Explorer-on-Terminal
+  logo: /images/sections/projects/fet.png
+  role: Owner
+  timeline: "Nov 2020 - Present"
+  repo: https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal
+  #url: ""
+  summary: ✨Powerful CUI Explorer.
+  tags: ["hobby", "fzf","shell", "OSS"]
+
+- name: richcat
+  logo: /images/sections/projects/richcat.png
+  role: Owner
+  timeline: "Nov 2020 - Present"
+  repo: https://github.com/ShotaroKataoka/Fuzzy-Git-Operator
+  summary: 🎨A rich cat command supporting various filetypes.
+  tags: ["hobby","richcat","python","OSS"]
+
+- name: Fuzzy-Git-Operator
+  logo: /images/sections/projects/fgo.png
+  role: Owner
+  timeline: "Dec 2020 - Present"
+  repo: https://github.com/ShotaroKataoka/Fuzzy-Git-Operator
+  summary: 🚀An interactive Git Operator on Terminal.
+  tags: ["hobby","fzf","shell","OSS"]
+
