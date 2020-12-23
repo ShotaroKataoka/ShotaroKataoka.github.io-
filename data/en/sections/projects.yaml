@@ -43,7 +43,7 @@ projects:
   logo: /images/sections/projects/richcat.png
   role: Owner
   timeline: "Nov 2020 - Present"
-  repo: https://github.com/ShotaroKataoka/Fuzzy-Git-Operator
+  repo: https://github.com/richcat-dev/richcat
   summary: 🎨A rich cat command supporting various filetypes.
   tags: ["hobby","richcat","python","OSS"]
 
