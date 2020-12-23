@@ -31,6 +31,7 @@ jobs:
       run: |
         htmlfile=$(cat public/index.html)
         echo "${htmlfile//hugo-toha.github.io/shotarokataoka.github.io}" >| public/index.html
+        grep -rl 'hugo-toha.github.io' ./public/posts/ | xargs sed -i -e 's/hugo-toha.github.io/shotarokataoka.github.io/g'
 
     # push the generated content into the `main` (former `master`) branch.
     - name: Deploy
