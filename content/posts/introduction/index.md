@@ -1,17 +1,16 @@
 ---
-title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-hero: /posts/introduction/hero.svg
-description: Introduction to Sample Post
+title: "First Post"
+date: 2020-12-23T18:00:00+06:00
+hero: /posts/introduction/school.png
+description: My First Post!
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: First Post
+    identifier: first-post
     weight: 10
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+はじめまして！  
+github.ioでresumeサイト作ってみました。  
+今後イベントなどあれば更新します。
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
