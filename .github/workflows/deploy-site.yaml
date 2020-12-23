@@ -26,6 +26,7 @@ jobs:
     # build website
     - name: Build
       run: hugo --minify
+      run: ls
 
     # push the generated content into the `main` (former `master`) branch.
     - name: Deploy
