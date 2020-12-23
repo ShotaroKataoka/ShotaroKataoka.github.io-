@@ -1,7 +1,7 @@
 ---
 title: "First Post"
 date: 2020-12-23T18:00:00+06:00
-hero: /posts/introduction/hero.svg
+hero: /posts/first-post/hero.svg
 description: My First Post!
 menu:
   sidebar:
