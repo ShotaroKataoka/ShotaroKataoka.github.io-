@@ -27,7 +27,7 @@ jobs:
     - name: Build
       run: |
         hugo --minify
-        ls
+        tree
 
     # push the generated content into the `main` (former `master`) branch.
     - name: Deploy
