@@ -30,7 +30,7 @@ jobs:
     - name: Fix
       run: |
         htmlfile=$(cat public/index.html)
-        echo ${htmlfile//hugo-toha.github.io/shotarokataoka.github.io} >| public/index.html
+        echo "${htmlfile//hugo-toha.github.io/shotarokataoka.github.io}" >| public/index.html
 
     # push the generated content into the `main` (former `master`) branch.
     - name: Deploy
