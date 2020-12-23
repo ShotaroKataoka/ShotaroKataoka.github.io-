@@ -1,6 +1,7 @@
 ---
 title: "First Post"
 hero: /posts/first-post/school.png
+date: 2020-12-24T02:04:14+09:00
 description: My First Post!
 menu:
   sidebar:
