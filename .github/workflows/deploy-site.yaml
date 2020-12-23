@@ -25,9 +25,10 @@ jobs:
 
     # build website
     - name: Build
-      run: |
-        hugo --minify
-        cat public/index.html | sed "s|https://hugo-toha.github.io/images|https://shotarokataoka.github.io/images|g" >|  public/index.html
+      run: hugo --minify
+
+    - name: Fix
+      run: cat public/index.html | sed "s|https://hugo-toha.github.io/images|https://shotarokataoka.github.io/images|g" >|  public/index.html
 
     # push the generated content into the `main` (former `master`) branch.
     - name: Deploy
