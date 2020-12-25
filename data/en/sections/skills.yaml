@@ -13,17 +13,17 @@ section:
 skills:
 - name: Python
   icon: "/images/sections/skills/python.png"
-  summary: "My main programing language. For reseaching ML/DL, developing OSS, and so on. (5 years experience)"
+  summary: "My main programing language. For reseaching ML/DL, developing OSS, and so on (5 years experience.)"
   url: "#skills"
 
 - name: PyTorch
   icon: "/images/sections/skills/pytorch.png"
-  summary: "Can Implement paper models and new deep learning architechtures. (3 years experience)"
+  summary: "Can Implement paper models and new deep learning architechtures (3 years experience.)"
   url: "#skills"
 
 - name: C / C++
   icon: "/images/sections/skills/cpp.svg"
-  summary: "Can use C/C++. I had created electronic works with C language. (3 years experience)"
+  summary: "Can use C. I had created electronic works with C language (3 years experience.) / My C++ skill is Toy-level."
   url: "#skills"
 
 - name: Java
