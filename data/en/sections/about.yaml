@@ -45,19 +45,19 @@ socialLinks:
 softSkills:
 - name: Research
   percentage: 100
-  color: sky
+  color: pink
 - name: OSS Develop
   percentage: 90
-  color: yellow
+  color: green
 - name: ML/DL
   percentage: 95
-  color: blue
+  color: sky
 - name: Python
   percentage: 90
-  color: pink
+  color: blue
 - name: Rust
   percentage: 90
-  color: green
+  color: orange
 - name: English
   percentage: 95
-  color: orange
+  color: yellow
