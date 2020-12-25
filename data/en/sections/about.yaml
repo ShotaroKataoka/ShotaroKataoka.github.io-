@@ -46,8 +46,8 @@ softSkills:
 - name: Research
   percentage: 100
   color: sky
-- name: OSS Development
-  percentage: 85
+- name: OSS Develop
+  percentage: 90
   color: yellow
 - name: ML/DL
   percentage: 95
