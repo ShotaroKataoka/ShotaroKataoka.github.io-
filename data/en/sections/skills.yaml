@@ -33,7 +33,7 @@ skills:
 
 - name: Linux / Shell sctipt
   icon: "/images/sections/skills/linux.png"
-  summary: "Developing OSS project on bash/zsh"
+  summary: "Developing OSS projects on bash/zsh."
   url: "#skills"
 
 - name: CI tool (Github Actions)
