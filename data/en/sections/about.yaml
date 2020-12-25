@@ -18,7 +18,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I love VIM. I'm interested in Machine Learning (Deep Learning and Classical Machine Learning,) Statistics and Bayes. My hobby is OSS development."
+summary: "I love VIM. I'm interested in Machine Learning (Deep Learning and Classical Machine Learning,) Statistics and Bayes. My hobby is OSS development. The pie charts show my level of interest!"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -43,21 +43,21 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 85
-  color: blue
-- name: Team Work
-  percentage: 90
-  color: yellow
-- name: Communication
-  percentage: 95
-  color: pink
-- name: Hard Working
-  percentage: 80
-  color: green
-- name: Fast Learner
-  percentage: 90
+- name: Research
+  percentage: 100
   color: sky
-- name: Problem Solving
+- name: OSS Development
+  percentage: 85
+  color: yellow
+- name: ML/DL
+  percentage: 95
+  color: blue
+- name: Python
+  percentage: 90
+  color: pink
+- name: Rust
+  percentage: 90
+  color: green
+- name: English
   percentage: 95
   color: orange
