@@ -85,3 +85,15 @@ experiences:
     # end: Feb 2020
     responsibilities:
     - Customer support (Data science contents)
+
+- company:
+    name: Sony Computer Science Laboratories, Inc.
+    url: "https://www.sonycsl.co.jp/"
+    location: Tokyo, Japan
+    # overview:
+  positions:
+  - designation: Intern
+    start: Feb 2021
+    # end: 
+    responsibilities:
+    - Research & Development of ML systems
